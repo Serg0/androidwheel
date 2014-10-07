@@ -24,13 +24,15 @@
 
 package antistatic.spinnerwheel;
 
+import android.animation.Animator;
+import android.animation.ObjectAnimator;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.*;
 import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
-import com.nineoldandroids.animation.Animator;
-import com.nineoldandroids.animation.ObjectAnimator;
+/*import com.nineoldandroids.animation.Animator;
+import com.nineoldandroids.animation.ObjectAnimator;*/
 
 
 /**
